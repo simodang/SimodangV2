@@ -1,0 +1,16 @@
+export const themeColors = {
+  primary: '#204E7C',
+  secondary: '#FDAC34',
+  disable: '#6F6F6F',
+  font: '#082037',
+  base: '#FFFFFF',
+  complementary: '#D3E3FF',
+  warningRed: '#EE1616',
+  warningYellow: '#EED816',
+  success: '#17DE13',
+  tempIndicator: '#6D3BAC',
+  phIndicator: '#AC3B3B',
+  TDOIndicator: '#6DAC3B',
+  TDSIndicator: '#D1DE3A',
+  tubidityIndicator: '#3BA5AC',
+};
